@@ -1,0 +1,12 @@
+{
+  "name": "home-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "cd server && node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

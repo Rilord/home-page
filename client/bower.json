@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "description": "",
+  "main": "",
+  "authors": [
+    "kodor"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
